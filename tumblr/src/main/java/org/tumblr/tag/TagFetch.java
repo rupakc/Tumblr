@@ -16,7 +16,8 @@ import org.tumblr.util.StringUtil;
 /** 
  * 
  * @author rupachak
- * //TODO - Add DB Support Using Taf Object
+ * //TODO - Add DB Support Using Tag Object
+ * TODO- Add Multithreading
  */
 
 public class TagFetch {

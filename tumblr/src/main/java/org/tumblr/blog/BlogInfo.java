@@ -14,7 +14,8 @@ import org.json.simple.parser.ParseException;
 
 /**
  * @author Rupak Chakraborty
- * TODO-Add DB Support Using the Info object
+ * TODO- Add DB Support Using the Info object
+ * TODO - Add Multi-threading
  */ 
 
 public class BlogInfo {
